@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**crgfclaudio/crgfclaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Bem-vindo ao meu GitHub! 👋
 Sou um estudante de Engenharia de Computação apaixonado por tecnologia, dados e desenvolvimento. Confira meus projetos!
