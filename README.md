@@ -9,5 +9,5 @@ Sou um estudante de Engenharia de Computação apaixonado por tecnologia, dados 
 ## Projetos em destaque
 - [Projeto 1](https://github.com/crgfclaudio/Convolussao_com_Python) - Projeto feito durante uma aula com foco em um desafio real utilizando Python para conseguir indentificar feijões ou milhos em qualquer tipo de foto.
 - [Projeto 2](https://github.com/EvertonFerreir4/Tetris_Escolar) - Projeto em construção com alguns amigos com intuito de aprofundar e melhorar conhecimentos aprendidos dentro e fora da faculdade.
-- [Projeto 3](https://github.com/EvertonFerreir4/Tetris_Escolar) - Projeto em construção com alguns amigos com intuito de aprofundar e melhorar conhecimentos aprendidos dentro e fora da faculdade.
+
 
