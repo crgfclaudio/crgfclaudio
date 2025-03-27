@@ -3,7 +3,7 @@
 Sou um estudante de Engenharia de Computação apaixonado por tecnologia, dados,Redes,IA e desenvolvimento. Confira meus projetos!
 🚧GitHub em construção então desde já me desculpem 🥹
 ## Sobre mim
-- 🌱 Atualmente estou realizando alguns cursos por fora da faculdade buscando melhorar e aprofundar meus conhecimentos e esses cursos incluem Python, Analise de Dados, JavaScript e HTML.
+- 🌱 Atualmente estou realizando alguns cursos adicionais buscando melhorar e aprofundar meus conhecimentos e esses cursos incluem Python, Analise de Dados,Banco de Dados,Segurança da Informação JavaScript e HTML.
 - 💼 Buscando oportunidades em desenvolvimento, Dados,Redes e IA.
 - 😍 amo cozinhar, ler e desafios.
 ## Projetos em destaque
