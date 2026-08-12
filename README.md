@@ -1,6 +1,6 @@
 
 # Bem-vindo ao meu GitHub! 👋
-Sou um estudante de Engenharia de Computação apaixonado por tecnologia, dados e Segurança da Informação. Confira meus projetos!
+Sou um estudante de Engenharia de Computação apaixonado por tecnologia, dados,IA e Segurança da Informação. Confira meus projetos!
 🚧GitHub em construção e desenvolvimento continuo então desde já me desculpem 🥹
 ## Sobre mim
 - 🌱 Atualmente estou realizando alguns cursos adicionais buscando melhorar e aprofundar meus conhecimentos e desenvolvimento continuo.
